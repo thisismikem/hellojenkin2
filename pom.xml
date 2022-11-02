@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mmtest</groupId>
-	<artifactId>jenkinsTest1</artifactId>
+	<artifactId>jenkinsTest2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jenkinsTest1</name>
-	<description>jenkinsTest1</description>
+	<name>jenkinsTest2</name>
+	<description>jenkinsTest2</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
